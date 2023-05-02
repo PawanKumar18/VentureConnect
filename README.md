@@ -28,7 +28,11 @@ Allow users to share their profiles and funding requests on social media platfor
 
 ### Demo
 ![image](https://user-images.githubusercontent.com/36084170/235557240-07f2c782-11b9-408e-b9c4-d23ec8546bae.png)
+
 ![image](https://user-images.githubusercontent.com/36084170/235557274-d5158e05-9dad-48c9-a5b2-ce2b5765a2a1.png)
+
 ![image](https://user-images.githubusercontent.com/36084170/235557298-5d21bd5d-aafc-4a18-9ce3-10c46629f263.png)
+
 ![image](https://user-images.githubusercontent.com/36084170/235557325-46a8f96d-5b20-479f-a85c-b5cf10f6d5d1.png)
+
 ![image](https://user-images.githubusercontent.com/36084170/235557349-54129b77-a5c3-4989-abac-aac5dbc55fbf.png)
